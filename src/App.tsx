@@ -1,4 +1,3 @@
-import React from "react";
 import PremiumProductGrid from "./PremiumProductGrid";
 
 export default function App() {
